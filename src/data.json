@@ -1,0 +1,45 @@
+{
+    "companies": [
+      {
+        "companyName": "Teleperformance",
+        "city": "Söderhamn",
+        "duration": "2012/10/01 - 2013/01/11",
+        "description": "Support för mobiltelefoni och bredband Fick tre veckors grundläggande utbildning i verktygen vi använde och även lite säljteknik, svarade på kunders frågor och felsökte problem på deras mjuk och hårdvara. Sålde mobiler, bredband och abonnemang"
+      },
+      {
+        "companyName": "Sykes",
+        "city": "Sveg",
+        "duration": "2013/09/30 - 2014/03/21",
+        "description": "Fick fyra veckors utbildning, vi lärde oss använda systemen och hur vi skulle hantera kundernas frågor och bokningar, även lite om företagets bakgrund och vision. Hjälpte kunder att boka resor och svara på det frågor det hade kring flygplatser, bagage m.m."
+      },
+      {
+        "companyName": "McDonalds",
+        "city": "Hudiksvall",
+        "duration": "2015/02/17 - 2016/06/18 , 2019/06/12 - 2021/08/30",
+        "description": "Arbetade som skiftledare på MCDonalds. Kassavana, ansvarade för de nya medarbetarna och utbildade dem. Öppnade och stängde restaurangen, räknade och bankade kassor. Hade ansvar för skiften, när medarbetarna skulle på rast, även deras arbetsuppgifter."
+      },
+      {
+        "companyName": "Telia",
+        "city": "Hudiksvall",
+        "duration": "2016/10/28 - 2019/06/10",
+        "description": "Sålde mobiltelefoner, tv och bredbands abonnemang. Svarade även på tekniska frågor och felsökte deras hårdvaror. Som säljare blir man van att prata och hantera kunder i deras vardagliga problem."
+      }
+    ],
+    "educations": [
+        {
+          "status": "Avslutad",
+          "city": "Hudiksvall",
+          "school": "Bromangymnasiet",
+          "duration": "2009 - 2012",
+          "description": "Estet musik"
+        },
+        {
+          "status": "Pågående",
+          "city": "Hudiksvall",
+          "school": "Edugrade",
+          "duration": "2021 - 2023",
+          "description": ".Net systemutvecklare med AI kompetens"
+        }
+      ]
+  }
+  
